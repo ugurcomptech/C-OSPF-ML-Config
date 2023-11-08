@@ -19,7 +19,9 @@ Bu kaynak, MultiLayer Switch yapılandırmasının temel unsurlarını kapsar ve
 **[MultiLayer Switch Nasıl Yapılandırılır?](https://github.com/ugurcomptech/Cisco-MULTILAYER-Switch-Config)**
 
 
-**Not:** Bu kaynaklar, Cisco ağınızı daha etkili bir şekilde yapılandırmanıza yardımcı olacaktır. İhtiyacınıza göre bu kaynaklara göz atabilir ve ağınızın performansını ve yönetilebilirliğini artırmak için gerekli bilgilere ulaşabilirsiniz.
+## Bilgilendirme
+
+Bu kaynaklar, Cisco ağınızı daha etkili bir şekilde yapılandırmanıza yardımcı olacaktır. İhtiyacınıza göre bu kaynaklara göz atabilir ve ağınızın performansını ve yönetilebilirliğini artırmak için gerekli bilgilere ulaşabilirsiniz.
 
 ## Ağ Tasarımı
 
