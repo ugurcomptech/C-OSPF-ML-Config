@@ -8,7 +8,7 @@ Bu ağ tasarımında, MultiLayer Switch (Çok Katmanlı Anahtar) kullanılmış 
 
 Bu kaynak, OSPF'nin temel konseptlerini ve Cisco cihazlarında nasıl yapılandırılacağını ayrıntılı bir şekilde açıklar. Ayrıca, farklı senaryolara uyarlanabilen adım adım yönergeler sunar.
 
-**[OSPF Config](https://github.com/ugurcomptech/Cisco-OSPF-Routing)**
+**[OSPF Routing Nasıl Yapılandırılır?](https://github.com/ugurcomptech/Cisco-OSPF-Routing)**
 
 
 
