@@ -20,3 +20,5 @@ Bu kaynak, MultiLayer Switch yapılandırmasının temel unsurlarını kapsar ve
 
 
 **Not:** Bu kaynaklar, Cisco ağınızı daha etkili bir şekilde yapılandırmanıza yardımcı olacaktır. İhtiyacınıza göre bu kaynaklara göz atabilir ve ağınızın performansını ve yönetilebilirliğini artırmak için gerekli bilgilere ulaşabilirsiniz.
+
+![image](https://github.com/ugurcomptech/C-OSPF-ML-Config/assets/133202238/c1aee2b6-1335-4cbd-bf20-58e93b30e312)
