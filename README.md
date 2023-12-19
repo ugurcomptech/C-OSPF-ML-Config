@@ -3,6 +3,16 @@
 Bu ağ tasarımında, MultiLayer Switch (Çok Katmanlı Anahtar) kullanılmış ve dinamik bir routing yapılandırması oluşturmak için OSPF (Open Shortest Path First) Routing Protokolü tercih edilmiştir. Bu yapı, ağın daha etkili ve yönetilebilir olmasına yardımcı olur. Aşağıda, OSPF Routing ve MultiLayer Switch yapılandırmasını daha ayrıntılı bir şekilde açıklayan kaynaklara ulaşabilirsiniz:
 
 
+## Router ML Arası Bağlantı
+
+MultiLayer ile Router arasında bağlantı yapmak istiyorsanız VLAN oluşturmanıza gerek yok aşağıda ki kodu MultiLayer Switche yazarsanız normal IP adresi yazabilirsiniz.
+
+```
+Switch(config)#interface fastEthernet 0/2 // yapılandırmak istediğiniz port
+Switch(config-if)#no switchport
+Switch(config-if)#ip address 1.1.1.1 255.0.0.0 // IP adresi
+```
+
 
 ## OSPF Routing Nasıl Yapılır?
 
